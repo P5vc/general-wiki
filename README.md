@@ -8,8 +8,8 @@ The Priveasy General Wiki offers a diverse collection of documentation, guides, 
 
 Select a technology from the list below to view all of its related wiki pages.
 
-- ### [Heads](/P5vc/general-wiki/wiki/Heads)
-- ### [Nitrokey](/P5vc/general-wiki/wiki/Nitrokey)
-- ### [Qubes OS](/P5vc/general-wiki/wiki/Qubes-OS)
+- ### [Heads](../../wiki/Heads)
+- ### [Nitrokey](../../wiki/Nitrokey)
+- ### [Qubes OS](../../wiki/Qubes-OS)
 
-*Can't find what you're looking for? Try searching the [comprehensive list](/P5vc/general-wiki/wiki/Technologies) instead.*
+*Can't find what you're looking for? Try searching the [comprehensive list](../../wiki/Technologies) instead.*
